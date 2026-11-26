@@ -1,0 +1,12 @@
+{
+  "source": "all",
+  "period": "24h",
+  "openPositions": 3182,
+  "longCount": 1977,
+  "shortCount": 1205,
+  "longPct": 62.13,
+  "shortPct": 37.87,
+  "closedPositions": 842,
+  "totalPnl": 4102330.12,
+  "winRatePct": 58.4
+}

@@ -1,0 +1,26 @@
+{
+  "period": "24h",
+  "totalSignals": 42,
+  "resolved": 30,
+  "targetsHit": 19,
+  "stopsHit": 11,
+  "winRatePct": 63.33,
+  "strategies": [
+    {
+      "strategyName": "Momentum Breakout AI",
+      "totalSignals": 18,
+      "resolved": 14,
+      "targetsHit": 9,
+      "stopsHit": 5,
+      "winRatePct": 64.29
+    },
+    {
+      "strategyName": "Mean Reversion AI",
+      "totalSignals": 24,
+      "resolved": 16,
+      "targetsHit": 10,
+      "stopsHit": 6,
+      "winRatePct": 62.5
+    }
+  ]
+}

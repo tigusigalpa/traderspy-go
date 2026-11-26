@@ -1,0 +1,28 @@
+{
+  "data": {
+    "topTraderId": "hl_0xa9f21bd3c",
+    "traderName": "Whale #1",
+    "source": "hyperliquid",
+    "rank": 1,
+    "roi": 412.7,
+    "pnl": 1820450.25,
+    "smartScore": 96.4,
+    "winRatePct": 71.2,
+    "positions": [
+      {
+        "source": "hyperliquid",
+        "topTraderId": "hl_0xa9f21bd3c",
+        "traderName": "Whale #1",
+        "symbol": "BTCUSDT",
+        "side": "long",
+        "size": 12.4,
+        "entryPrice": 95120.4,
+        "leverage": 5,
+        "isOpen": true,
+        "lastEvent": "increase",
+        "sortDate": 1764157200000,
+        "unrealizedPnl": 28310.55
+      }
+    ]
+  }
+}

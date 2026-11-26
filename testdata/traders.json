@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "topTraderId": "hl_0xa9f21bd3c",
+      "traderName": "Whale #1",
+      "source": "hyperliquid",
+      "rank": 1,
+      "roi": 412.7,
+      "pnl": 1820450.25,
+      "smartScore": 96.4,
+      "winRatePct": 71.2
+    },
+    {
+      "topTraderId": "bn_84f21c",
+      "traderName": "",
+      "source": "binance",
+      "rank": 2,
+      "roi": 288.9,
+      "pnl": 940812.0,
+      "smartScore": 91.7,
+      "winRatePct": 66.8
+    }
+  ]
+}

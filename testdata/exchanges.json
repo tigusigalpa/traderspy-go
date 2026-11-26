@@ -1,0 +1,8 @@
+{
+  "data": [
+    { "id": "binance", "name": "Binance", "traders": 250 },
+    { "id": "hyperliquid", "name": "Hyperliquid", "traders": 180 },
+    { "id": "bybit", "name": "Bybit", "traders": 150 },
+    { "id": "okx", "name": "OKX", "traders": 120 }
+  ]
+}

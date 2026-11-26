@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "source": "binance",
+      "topTraderId": "bn_84f21c",
+      "traderName": "",
+      "symbol": "SOLUSDT",
+      "side": "short",
+      "size": 4200,
+      "entryPrice": 188.42,
+      "leverage": 3,
+      "isOpen": false,
+      "lastEvent": "partial_close",
+      "sortDate": 1764153600000,
+      "pnl": 12450.75
+    },
+    {
+      "source": "okx",
+      "topTraderId": "ok_55aa12",
+      "symbol": "BTCUSDT",
+      "side": "long",
+      "size": 137,
+      "isOpen": true,
+      "lastEvent": "open",
+      "sortDate": 1764150000000,
+      "unrealizedPnl": -812.4
+    }
+  ],
+  "pagination": { "limit": 20, "total": 5409, "hasMore": true, "offset": 0 }
+}

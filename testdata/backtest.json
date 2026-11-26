@@ -1,0 +1,21 @@
+{
+  "symbol": "BTCUSDT",
+  "interval": "4h",
+  "occurrences": 41,
+  "bars": 1000,
+  "horizons": [
+    { "bars": 1, "avgReturnPct": 0.42, "winRatePct": 61.0, "edgePct": 0.28, "worstPct": -3.14 },
+    { "bars": 6, "avgReturnPct": 1.87, "winRatePct": 68.3, "edgePct": 1.02, "worstPct": -7.55 },
+    { "bars": 18, "avgReturnPct": 3.44, "winRatePct": 65.9, "edgePct": 1.91, "worstPct": -11.20 }
+  ],
+  "regimes": {
+    "horizons": [
+      {
+        "hours": 24,
+        "above": { "samples": 29, "edgePct": 2.74, "avgReturnPct": 3.98, "winRatePct": 72.4 },
+        "below": { "samples": 12, "edgePct": 0.12, "avgReturnPct": 0.55, "winRatePct": 50.0 }
+      }
+    ]
+  },
+  "warnings": []
+}

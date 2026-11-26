@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "symbol": "BTCUSDT",
+      "intervals": [
+        {
+          "interval": "1h",
+          "bias": "neutral",
+          "indicators": {
+            "rsi": { "value": 52.4, "zone": "neutral", "series": [48.1, 50.9, 52.4] },
+            "macd": { "macd": 112.4, "signal": 98.1, "histogram": 14.3 },
+            "ema": { "ema9": 97300.2, "ema21": 96950.8, "ema55": 96120.3 },
+            "bollinger": { "upper": 98200.5, "middle": 97050.1, "lower": 95899.7, "percentB": 0.72 }
+          }
+        },
+        {
+          "interval": "4h",
+          "bias": "bullish",
+          "indicators": {
+            "rsi": { "value": 58.9, "zone": "neutral", "series": [55.2, 57.0, 58.9] },
+            "macd": { "macd": 402.1, "signal": 351.8, "histogram": 50.3 },
+            "ema": { "ema9": 97210.4, "ema21": 96400.5, "ema55": 94820.1 },
+            "bollinger": { "upper": 99100.2, "middle": 96800.4, "lower": 94500.6, "percentB": 0.81 }
+          }
+        }
+      ],
+      "bias": "bullish",
+      "confluence": { "verdict": "bullish", "score": 0.62, "up": 2, "down": 0 }
+    }
+  ]
+}

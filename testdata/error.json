@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "invalid_request",
+    "message": "limit: must be between 1 and 50",
+    "requestId": "req_test0001",
+    "details": [{ "param": "limit", "message": "must be between 1 and 50" }]
+  }
+}

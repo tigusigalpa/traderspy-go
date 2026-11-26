@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "symbol": "BTCUSDT",
+      "fundingRate": 0.0001,
+      "nextFundingTime": 1764163200000,
+      "openInterest": 51240.7,
+      "openInterestUsd": 4990653312.8,
+      "longShortRatio": 1.42,
+      "longPct": 58.7,
+      "shortPct": 41.3,
+      "note": "Funding mildly positive; positioning leans long but not extreme."
+    },
+    {
+      "symbol": "ETHUSDT",
+      "fundingRate": -0.00005,
+      "nextFundingTime": 1764163200000,
+      "openInterest": 982110.2,
+      "openInterestUsd": 3255110334.1,
+      "longShortRatio": 0.94,
+      "longPct": 48.5,
+      "shortPct": 51.5,
+      "note": "Slightly negative funding; shorts pay longs, positioning balanced."
+    }
+  ]
+}

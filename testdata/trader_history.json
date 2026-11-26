@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "source": "hyperliquid",
+      "topTraderId": "hl_0xa9f21bd3c",
+      "traderName": "Whale #1",
+      "symbol": "ETHUSDT",
+      "side": "long",
+      "size": 88.5,
+      "entryPrice": 3102.4,
+      "leverage": 4,
+      "isOpen": false,
+      "lastEvent": "closed",
+      "sortDate": 1764060000000,
+      "pnl": 51230.0
+    }
+  ],
+  "pagination": { "limit": 20, "total": 137, "hasMore": true, "page": 1 }
+}

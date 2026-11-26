@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "symbol": "BTCUSDT",
+      "price": 97412.5,
+      "high24h": 98120.0,
+      "low24h": 95110.3,
+      "volume24h": 18234.77,
+      "volume24hUsd": 1778203120.5,
+      "change24hPct": 1.84
+    },
+    {
+      "symbol": "ETHUSDT",
+      "price": 3314.2,
+      "high24h": 3390.0,
+      "low24h": 3245.1,
+      "volume24h": 240112.4,
+      "volume24hUsd": 795512410.2,
+      "change24hPct": -0.62
+    },
+    {
+      "symbol": "SOLUSDT",
+      "price": 187.95,
+      "high24h": 193.2,
+      "low24h": 184.0,
+      "volume24h": 812440.9,
+      "volume24hUsd": 152710212.3,
+      "change24hPct": 2.31
+    }
+  ]
+}

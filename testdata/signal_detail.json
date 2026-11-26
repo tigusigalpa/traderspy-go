@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "sig_01J8XZQ2",
+    "strategyName": "Momentum Breakout AI",
+    "importance": "high",
+    "action": "buy",
+    "signalStrength": 0.87,
+    "coin": "BTCUSDT",
+    "timeframe": "4h",
+    "price": 97432.5,
+    "targets": [
+      { "label": "Take profit 1", "type": "tp1", "pct": 2.4 },
+      { "label": "Stop loss", "type": "sl", "pct": 1.8 }
+    ],
+    "resolutionStatus": "open",
+    "createdAt": "2026-11-26T09:15:00Z",
+    "url": "https://traderspy.app/signals/sig_01J8XZQ2",
+    "livePrice": 97510.2,
+    "aiReview": "Bullish engulfing on rising volume; funding neutral.",
+    "indicators": { "rsi14": 61.4, "adx14": 28.2 },
+    "resolution": { "status": "open" }
+  }
+}

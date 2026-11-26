@@ -1,0 +1,35 @@
+{
+  "conditions": ["RSI(14) < 30"],
+  "interval": "4h",
+  "matched": 3,
+  "universe": { "scanned": 100 },
+  "results": [
+    {
+      "symbol": "DOGEUSDT",
+      "price": 0.1382,
+      "change24hPct": -6.42,
+      "volume24hUsd": 412305511.0,
+      "rsi14": 24.6,
+      "adx14": 33.1,
+      "atrPct": 4.12,
+      "volumeRatio": 2.31,
+      "trend": "below200",
+      "bias": "bearish",
+      "squeeze": false
+    },
+    {
+      "symbol": "LINKUSDT",
+      "price": 12.44,
+      "change24hPct": -4.05,
+      "volume24hUsd": 210441233.0,
+      "rsi14": 28.9,
+      "adx14": 27.4,
+      "atrPct": 3.55,
+      "volumeRatio": 1.62,
+      "trend": "below200",
+      "bias": "bearish",
+      "squeeze": true
+    }
+  ],
+  "warnings": []
+}

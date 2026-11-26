@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": "str_9f2c41",
+      "name": "RSI oversold bounce",
+      "rules": "RSI(14) below 30 AND price above 200 EMA",
+      "timeframe": "4h",
+      "coins": ["BTCUSDT", "ETHUSDT", "SOLUSDT"],
+      "enabled": true,
+      "alertsSent": 14,
+      "createdAt": "2026-10-02T11:30:00Z"
+    }
+  ]
+}
