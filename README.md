@@ -1,9 +1,15 @@
-# traderspy-go
+# TraderSpy Golang Client/SDK/Library
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/tigusigalpa/traderspy-go)](https://goreportcard.com/report/github.com/tigusigalpa/traderspy-go)
-[![pkg.go.dev](https://pkg.go.dev/badge/github.com/tigusigalpa/traderspy-go.svg)](https://pkg.go.dev/github.com/tigusigalpa/traderspy-go)
-[![CI](https://github.com/tigusigalpa/traderspy-go/actions/workflows/ci.yml/badge.svg)](https://github.com/tigusigalpa/traderspy-go/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![TraderSpy Golang Client/SDK/Library](https://i.postimg.cc/Y0tZ22vh/traderspy-app-go-client.jpg)
+
+[![CI](https://github.com/tigusigalpa/traderspy-go/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tigusigalpa/traderspy-go/actions/workflows/ci.yml)
+[![Tests](https://github.com/tigusigalpa/traderspy-go/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/tigusigalpa/traderspy-go/actions/workflows/test.yml)
+[![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)](https://golang.org/)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
+[![CodeQL](https://github.com/tigusigalpa/traderspy-go/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/tigusigalpa/traderspy-go/actions/workflows/codeql.yml)
+[![Codecov](https://codecov.io/gh/tigusigalpa/traderspy-go/graph/badge.svg)](https://codecov.io/gh/tigusigalpa/traderspy-go)
+[![GitHub Release](https://img.shields.io/github/v/release/tigusigalpa/traderspy-go?style=flat-square)](https://github.com/tigusigalpa/traderspy-go/releases)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue?style=flat-square&logo=go)](https://pkg.go.dev/github.com/tigusigalpa/traderspy-go)
 
 A Go client for the read-only TraderSpy Signals API v1. Use it to pull published
 crypto futures signals and their outcomes into your dashboard, track positions
